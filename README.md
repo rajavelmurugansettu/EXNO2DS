@@ -23,7 +23,7 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-         import pandas as pd df=pd.read_csv("C:\Users\admin\Downloads\titanic_dataset.csv") df
+ import pandas as pd df=pd.read_csv("C:\Users\admin\Downloads\titanic_dataset.csv") df
          <img width="1430" height="623" alt="image" src="https://github.com/user-attachments/assets/a99e92f4-1367-4282-afb0-bd566c5d0429" />
          df.shape
          <img width="1327" height="84" alt="image" src="https://github.com/user-attachments/assets/39a315a2-afd0-4959-b591-f2d0e1375c72" />
@@ -75,4 +75,4 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 # RESULT
-                The EDA process has been done successfully
+   The EDA process has been done successfully
